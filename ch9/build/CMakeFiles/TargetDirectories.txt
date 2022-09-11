@@ -1,0 +1,3 @@
+/Users/heshaoyu/Documents/learning/dataset/gitset03/ch9/build/CMakeFiles/result.dir
+/Users/heshaoyu/Documents/learning/dataset/gitset03/ch9/build/CMakeFiles/edit_cache.dir
+/Users/heshaoyu/Documents/learning/dataset/gitset03/ch9/build/CMakeFiles/rebuild_cache.dir

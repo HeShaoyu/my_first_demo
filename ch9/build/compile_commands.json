@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/heshaoyu/Documents/learning/dataset/gitset03/ch9/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/result.dir/main.cpp.o -c /Users/heshaoyu/Documents/learning/dataset/gitset03/ch9/main.cpp",
+  "file": "/Users/heshaoyu/Documents/learning/dataset/gitset03/ch9/main.cpp"
+}
+]
