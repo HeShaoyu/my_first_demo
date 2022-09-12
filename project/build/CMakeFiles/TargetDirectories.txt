@@ -1,0 +1,3 @@
+/Users/heshaoyu/Documents/learning/dataset/gitset03/cmake/build/CMakeFiles/my_cmake_exe.dir
+/Users/heshaoyu/Documents/learning/dataset/gitset03/cmake/build/CMakeFiles/edit_cache.dir
+/Users/heshaoyu/Documents/learning/dataset/gitset03/cmake/build/CMakeFiles/rebuild_cache.dir
